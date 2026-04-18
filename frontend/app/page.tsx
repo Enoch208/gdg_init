@@ -30,7 +30,7 @@ export default function Home() {
       <main className="mx-auto max-w-[1100px] px-6 py-10 sm:py-16">
         <section className="mb-10 max-w-2xl">
           <h1 className="text-[40px] font-semibold leading-[1.10] tracking-tight text-[#1d1d1f] sm:text-[56px] sm:leading-[1.07] sm:tracking-[-0.28px]">
-            Invoices, in one sentence.
+            Invoices in one sentence.
           </h1>
           <p className="mt-3 text-[17px] leading-[1.47] tracking-[-0.374px] text-black/70">
             Type what you did. Invoix drafts a clean invoice you can edit and download as a PDF.
